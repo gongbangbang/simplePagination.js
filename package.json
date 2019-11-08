@@ -1,5 +1,5 @@
 {
-  "name": "simplepagination.js",
+  "name": "simplePagination.js",
   "version": "1.0.0",
   "description": "A simple jQuery pagination plugin and 3 CSS themes.",
   "main": "jquery.simplePagination.js",
